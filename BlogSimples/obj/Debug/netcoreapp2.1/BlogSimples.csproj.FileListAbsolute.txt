@@ -35,3 +35,4 @@ C:\Projetos\BlogSimples\BlogSimples\obj\Debug\netcoreapp2.1\BlogSimples.pdb
 C:\Projetos\BlogSimples\BlogSimples\obj\Debug\netcoreapp2.1\BlogSimples.genruntimeconfig.cache
 C:\Projetos\BlogSimples\BlogSimples\obj\Debug\netcoreapp2.1\BlogSimp.25E391D4.Up2Date
 C:\Projetos\BlogSimples\BlogSimples\obj\Debug\netcoreapp2.1\BlogSimples.sourcelink.json
+C:\Projetos\BlogSimples\BlogSimples\obj\Debug\netcoreapp2.1\Razor\Views\Postagens\Index.cshtml.g.cs
