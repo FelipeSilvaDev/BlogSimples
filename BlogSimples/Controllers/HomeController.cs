@@ -24,7 +24,7 @@ namespace BlogSimples.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Página de contato";
 
             return View();
         }

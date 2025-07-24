@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Projetos\\BlogSimples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|c:\\projetos\\blogsimples\\blogsimples\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|solutionrelative:blogsimples\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|c:\\projetos\\blogsimples\\blogsimples\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|solutionrelative:blogsimples\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|c:\\projetos\\blogsimples\\blogsimples\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|solutionrelative:blogsimples\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|c:\\projetos\\blogsimples\\blogsimples\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-readable.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|solutionrelative:blogsimples\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-readable.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|c:\\projetos\\blogsimples\\blogsimples\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|solutionrelative:blogsimples\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|c:\\projetos\\blogsimples\\blogsimples\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|solutionrelative:blogsimples\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|c:\\projetos\\blogsimples\\blogsimples\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|solutionrelative:blogsimples\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|c:\\projetos\\blogsimples\\blogsimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78876E4C-652F-44EE-8402-A24CE841A887}|BlogSimples\\BlogSimples.csproj|solutionrelative:blogsimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BlogSimples\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BlogSimples\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T19:24:36.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogSimples\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogSimples\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T19:23:56.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "BlogSimples\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "BlogSimples\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T19:19:55.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BlogSimples\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BlogSimples\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T19:19:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogSimples\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\BlogSimples\\BlogSimples\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogSimples\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T18:03:02.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-readable.css",
+              "DocumentMoniker": "C:\\Projetos\\BlogSimples\\BlogSimples\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-readable.css",
+              "RelativeDocumentMoniker": "BlogSimples\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-readable.css",
+              "ToolTip": "C:\\Projetos\\BlogSimples\\BlogSimples\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-readable.css",
+              "RelativeToolTip": "BlogSimples\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-readable.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-24T18:02:39.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projetos\\BlogSimples\\BlogSimples\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogSimples\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projetos\\BlogSimples\\BlogSimples\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogSimples\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:57:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\BlogSimples\\BlogSimples\\Program.cs",
               "RelativeDocumentMoniker": "BlogSimples\\Program.cs",
               "ToolTip": "C:\\Projetos\\BlogSimples\\BlogSimples\\Program.cs",
               "RelativeToolTip": "BlogSimples\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T17:26:15.554Z",
               "EditorCaption": ""
